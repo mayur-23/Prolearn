@@ -56,5 +56,5 @@ http://localhost/Prolearn/
 ## Technology Used
 - Frontend - HTML, CSS, Bootstrap
 - DataBase - Azure MySQL database
-- Backend - PHP
+- Backend - PHP1
 - Cloud - Azure  
